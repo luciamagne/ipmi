@@ -1,6 +1,6 @@
 // Lucia Magne
 // Comisión 1
-
+//link a video explicativo:https://youtu.be/T5JhO9Rv1xk
 PImage referencia;
 
 float angulo = 0;
